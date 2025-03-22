@@ -1,4 +1,4 @@
-package org.templates.golang_ci
+package org.templates.golangci
 
 import org.common.*
 import org.golang.*
