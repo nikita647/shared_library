@@ -1,4 +1,4 @@
-package.org.common
+package org.common
 def call() {
   cleanWs()
 }
